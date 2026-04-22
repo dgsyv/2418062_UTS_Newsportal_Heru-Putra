@@ -1,0 +1,13 @@
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <title><?php echo $__env->yieldContent('title', 'Blog Home - Start Bootstrap Template'); ?></title>
+    <!-- Favicon-->
+    <link rel="icon" type="image/x-icon" href="<?php echo e(asset('User/assets/favicon.ico')); ?>" />
+    <!-- Core theme CSS (includes Bootstrap)-->
+    <link href="<?php echo e(asset('User/css/styles.css')); ?>" rel="stylesheet" />
+    <?php echo $__env->yieldContent('page-styles'); ?>
+</head>
+<?php /**PATH E:\Download\PortalNews-part001\resources\views/layouts/user/header.blade.php ENDPATH**/ ?>
